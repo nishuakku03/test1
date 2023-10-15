@@ -1,5 +1,5 @@
 
-main () {
+main() {
 	biggest();
 	factorial();
 }
